@@ -2,9 +2,13 @@
 
 Recipes Website
 
-![screenshot](./app_screenshot.png)
+![screenshot]("/images/site screenshot.png")
 
-Recipes website for learning to code fromthe odin project using only basic html
+Recipes website for learning to code from the odin project using only basic html
+
+## Demo
+
+https://cerdtruir.github.io/odin-recipes/
 
 ## Built With
 
