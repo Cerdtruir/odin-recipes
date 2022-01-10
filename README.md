@@ -2,7 +2,7 @@
 
 Recipes Website
 
-![screenshot]("/images/site_screenshot.png")
+![screenshot](/images/site_screenshot.png)
 
 Recipes website for learning to code from the odin project using only basic html
 
