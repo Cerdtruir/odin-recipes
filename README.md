@@ -14,6 +14,17 @@ https://cerdtruir.github.io/odin-recipes/
 
 HTML5
 
+## Author
+
+👤 **Cerdtruir**
+
+https://github.com/Cerdtruir
+
+## Acknowledgments
+
+- The Odin Project
+- allrecipes.com
+
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
