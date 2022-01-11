@@ -1,0 +1,18 @@
+* {
+  text-align: center;
+  background-color: honeydew;
+}
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: chartreuse;
+}
+li {
+  color: gray;
+  font-weight: bold;
+}
+ul {
+  display: inline-block;
+}
+ol {
+  display: inline-block;
+}
