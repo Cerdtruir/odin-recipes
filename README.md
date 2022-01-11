@@ -4,7 +4,7 @@ Recipes Website
 
 ![screenshot](/images/site_screenshot.png)
 
-Recipes website for learning to code from the odin project using only basic html and css
+Recipes website for learning to code from the odin project using only basic HTML and CSS
 
 ## Demo
 
