@@ -4,7 +4,7 @@ Recipes Website
 
 ![screenshot](/images/site_screenshot.png)
 
-Recipes website for learning to code from the odin project using only basic html
+Recipes website for learning to code from the odin project using only basic HTML and CSS
 
 ## Demo
 
@@ -12,7 +12,8 @@ https://cerdtruir.github.io/odin-recipes/
 
 ## Built With
 
-HTML5
+HTML 5
+CSS 3
 
 ## Author
 
