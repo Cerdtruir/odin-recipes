@@ -9,11 +9,12 @@ h2 {
 li {
   color: gray;
   font-weight: bold;
+  text-align: left;
+  padding: 3px;
 }
 ul,
 ol {
   display: inline-block;
-  list-style-type: none;
   padding: 0;
   margin: 0;
 }
